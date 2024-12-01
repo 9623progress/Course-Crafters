@@ -39,6 +39,6 @@ Course-Crafters is an online platform designed for users to discover, purchase, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/course-crafters.git
+git clone https://github.com/9623progress/Course-Crafters.git
 cd course-crafters
 ```
