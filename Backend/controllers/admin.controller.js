@@ -1,5 +1,5 @@
 import { Course, courseContent } from "../model/course.model.js";
-import payment from "../model/purchase.model.js";
+
 import { User } from "../model/user.model.js";
 import { uploadToCloudinary } from "../utils/upload.js";
 
