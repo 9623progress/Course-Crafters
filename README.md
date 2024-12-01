@@ -40,5 +40,5 @@ Course-Crafters is an online platform designed for users to discover, purchase, 
 
 ```bash
 git clone https://github.com/9623progress/Course-Crafters.git
-cd course-crafters
+
 ```
