@@ -5,10 +5,8 @@ import bcrypt from "bcryptjs";
 import dotenv from "dotenv";
 import jwt from "jsonwebtoken";
 import { z } from "zod";
-
 import { razorpay } from "../config/razorpay.js";
 import { Course } from "../model/course.model.js";
-
 import payment from "../model/purchase.model.js";
 
 dotenv.config();

@@ -10,7 +10,7 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: ["mongoose"], // Externalize mongoose
+      external: [], // Externalize mongoose
     },
   },
   resolve: {
