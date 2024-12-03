@@ -31,7 +31,7 @@ Course-Crafters is an online platform designed for users to discover, purchase, 
 
 - **Backend**:
   - Node.js with Express
-  - MongoDB for database management (if applicable)
+  - MongoDB for database management 
   - Mongoose for interacting with MongoDB
 
 ## Installation
